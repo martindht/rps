@@ -1,2 +1,2 @@
 # rps
-Use basic JavaScript to creat a rock, paper, scissors game.  
+Use basic JavaScript to create a rock, paper, scissors game.  
